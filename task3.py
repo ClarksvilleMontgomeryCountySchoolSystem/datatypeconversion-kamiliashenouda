@@ -1,4 +1,3 @@
-from data import a, b, c, d, e, f
 
 # Convert each variable to the most suitable data type
 # Hint: print and check type if unsure
@@ -11,15 +10,18 @@ a = float(a)
 # b
 print(b)
 print(type(b))
-
+b = str(b)
 # c
-# TODO 3
-
+print(c)
+print(type(c))
 # d
-# TODO 4
-
+print(d)
+print(type(d))
+d = int(d)
 # e
-# TODO 5
-
+print(e)
+print(type(e))
 # f
-# TODO 6
+print(f)
+print(type(f))
+f = float(f)
